@@ -1,0 +1,27 @@
+live-boot
+live-config
+live-config-systemd
+systemd-sysv
+# Calamares installer
+calamares
+
+# Backend do partycjonowania
+libkpmcore12
+
+# KDE GUI
+kde-baseapps
+kde-plasma-desktop
+dolphin
+konsole
+
+# Qt
+qt5-qmake
+qtbase5-dev
+
+# Obsługa systemów plików
+dosfstools
+e2fsprogs
+btrfs-progs
+xfsprogs
+ntfs-3g
+parted
